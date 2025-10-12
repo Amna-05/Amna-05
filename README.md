@@ -52,7 +52,7 @@
 
 - 🎓 **Bachelors )** - *In Progress*
 - 📚 **Full Stack Web  Developer**
-- 🔬 **Full Stack PYTHON Developer*"
+- 🔬 **PYTHON Developer**
 ---
 
 
