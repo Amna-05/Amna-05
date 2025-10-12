@@ -2,19 +2,15 @@
 
 
 ## 🚀 About Me
-
-- 🎓 **Bachelor** student passionate about technology
-- 🔭 I'm  **Python Developer** and  an aspiring **AI Engineer** interested in *Full Stack Web development ,RAG Chatbot and AI integrated apps* 
-
-- 👯 I'm looking to collaborate on **AI Projects, and Web Applications**
+- 🎓 I am **Bachelor** student passionate about technology
+- 🔭 A  **Python Developer** and  an aspiring **AI Engineer** interested in *Full Stack Web development ,RAG Chatbot and AI integrated apps*
+- 🔭 Interested in building AI integrated apps and RAG Chatbots and backend with FASTAPI .
+-    Currently building my portfolio Projects .
 - 💬 Ask me about **Python, Web Development,RAG Chatbot, and AI Integarted apps**
+- - 👯 I'm actively seeking any oppourtunity as **internship ,freelancing projects and job roles.**
 - 📫 How to reach me: **iamamna146@gmail.com**
 
-
-
 ## Technical Skills
-
-
 <div align="center">
 
 ### Programming Languages
@@ -56,8 +52,7 @@
 
 - 🎓 **Bachelors )** - *In Progress*
 - 📚 **Full Stack Web  Developer**
-- 🔬 **Full Stack PYTHON Developer**
-
+- 🔬 **Full Stack PYTHON Developer*"
 ---
 
 
