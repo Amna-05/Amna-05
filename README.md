@@ -7,7 +7,7 @@
 -    Currently working on AI  .
 - 💬 Ask me about **Python, Web Development,RAG Chatbot, and AI Integarted apps**
 - - 👯 I'm actively seeking any oppourtunity as **internship ,freelancing projects and job roles.**
-- 📫 How to reach me: **iamamna146@gmail.com**
+- 📫 How to reach me: **amnaaa963@gmail.com** 
 
 ## Technical Skills
 <div align="center">
