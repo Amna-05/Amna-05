@@ -3,8 +3,8 @@
 
 ## 🚀 About Me
 - 🎓 I am  a junior  **AI Engineer** and a **Python Developer** building   *Full Stack Web apps  ,RAG Chatbot and AI integrations*
-- 🔭 Interested in building AI integrated apps and RAG Chatbots and backend with FASTAPI .
--    Currently working on AI  .
+- 🔭 Currently  building AI integrated apps and RAG Chatbots and backend with FASTAPI .
+  
 - 💬 Ask me about **Python, Web Development,RAG Chatbot, and AI Integarted apps**
 - - 👯 I'm actively seeking any oppourtunity as **internship ,freelancing projects and job roles.**
 - 📫 How to reach me: **amnaaa963@gmail.com** 
